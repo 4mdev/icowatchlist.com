@@ -1,4 +1,4 @@
-ICO-python
+Crypto ICO events - python3
 ----------
 
 icowatchlist.com API - Cryptocurrencies ICO - API - Python3
