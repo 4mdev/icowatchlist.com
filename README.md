@@ -1,3 +1,6 @@
+.. image:: http://res.cloudinary.com/vidsy/image/upload/v1503160820/CoZ_Icon_DARKBLUE_200x178px_oq0gxm.png
+   :alt: CoZ logo
+
 ICO-python
 ----------
 
